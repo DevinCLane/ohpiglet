@@ -1,15 +1,16 @@
 ---
 templateKey: index-page
-title: oh piglet.
-image: /img/namroud-gorguis-fzwivbri0xk-unsplash.jpg
+title: Oh Piglet
+image: /img/kiran-kichu-tysitqeeduo-unsplash.jpg
 heading: Speak clearly with sound
 subheading: Creative Consultancy
 mainpitch:
-  title: oh piglet.
+  title: Oh Piglet
   description: >
-    How are you communicating with your people? We are an audio-first approach
-    to audience engagement
-description: "oh piglet. connects you more closely with those who matter. "
+    How are you communicating with your people? How are you keeping your
+    audiences engaged?
+description: Oh Piglet is an audio-first communication agency that brings you
+  closer to the people you care about most.
 intro:
   blurbs:
     - image: /img/coffee.png
