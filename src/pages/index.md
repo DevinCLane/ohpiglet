@@ -3,7 +3,7 @@ templateKey: index-page
 title: Oh Piglet
 image: /img/kiran-kichu-tysitqeeduo-unsplash.jpg
 heading: Speak clearly with sound
-subheading: Creative Consultancy
+subheading: Creative Audio Solutions
 mainpitch:
   title: Oh Piglet
   description: >
@@ -13,13 +13,8 @@ description: Oh Piglet is an audio-first communication agency that brings you
   closer to the people you care about most.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+    - image: /img/austin-distel-vcfxt2yt1eq-unsplash.jpg
+      text: Audio for podcasts
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
