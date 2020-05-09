@@ -9,8 +9,8 @@ mainpitch:
   description: >
     How are you communicating with your people? How are you keeping your
     audiences engaged?
-description: Oh Piglet is an audio-first communication agency that brings you
-  closer to the people you care about most.
+description: "Oh Piglet is an audio-first communication agency that brings you
+  closer to those who matter most. "
 intro:
   blurbs:
     - image: /img/austin-distel-vcfxt2yt1eq-unsplash.jpg
@@ -22,12 +22,10 @@ intro:
       text: Mixing and Mastering for bands
     - image: /img/rob-hampson-cqfkhqv6ong-unsplash.jpg
       text: User Interaction Sound Design
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/dane-deaner-l5wtuhuqyu-unsplash.jpg
+      text: Intelligent Urban Audio Design
+  heading: Oh Piglet
+  description: Oh Piglet
 main:
   heading: Great coffee with no compromises
   description: >
