@@ -15,12 +15,9 @@ intro:
   blurbs:
     - image: /img/austin-distel-vcfxt2yt1eq-unsplash.jpg
       text: Audio for podcasts
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: /img/sam-mcghee-kieclnzkobo-unsplash.jpg
+      text: |
+        Audio for visuals
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
