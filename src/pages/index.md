@@ -24,6 +24,8 @@ intro:
       text: User Interaction Sound Design
     - image: /img/dane-deaner-l5wtuhuqyu-unsplash.jpg
       text: Intelligent Urban Audio Design
+    - image: /img/joel-filipe-g8ogqykt9e4-unsplash.jpg
+      text: Architectural Sound Design
   heading: Oh Piglet
   description: Oh Piglet
 main:
