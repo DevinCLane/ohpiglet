@@ -18,13 +18,8 @@ intro:
     - image: /img/sam-mcghee-kieclnzkobo-unsplash.jpg
       text: |
         Audio for visuals
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+    - image: /img/frankie-cordoba-fea9ju3odm8-unsplash.jpg
+      text: Mixing and Mastering for bands
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
